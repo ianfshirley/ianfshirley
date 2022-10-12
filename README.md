@@ -1,7 +1,7 @@
 ###  Hey Friend! Welcome to my Github Profile! :smiley:
 
 
-Here's an extremely brief introduction to me:   
+Here's an extremely brief introduction about me:   
 :man_cook::man_dancing::snowboarder::basketball_man::biking_man::dog2::cat2::camping::motorcycle::skateboard::flying_disc::art::house_with_garden:
 
 <!--
